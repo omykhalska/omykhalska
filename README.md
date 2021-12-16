@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👧  I am a beginner web-developer, interested in SPA, MPA & PWA development technologies
+
+🌱 I’m currently learning JavaScript and React
+
 <!--
 **omykhalska/omykhalska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
