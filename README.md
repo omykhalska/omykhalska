@@ -1,6 +1,6 @@
 ### Hi, I'm Oksana  👋
 
-👧  I'm a beginner web-developer, interested in SPA development technologies
+👧  I'm a beginner web-developer, interested in SPA, MPA & PWA development technologies
 
 🌱 I’m currently learning JavaScript and React
 
