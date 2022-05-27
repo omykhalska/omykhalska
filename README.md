@@ -2,7 +2,7 @@
 
 👧  I'm a beginner web-developer, interested in SPA, MPA & PWA development technologies
 
-🌱 I’m currently learning JavaScript and React
+🌱 I’m currently learning JavaScript, React and Node.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omykhalska&show_icons=true&title_color=3d85c6&icon_color=cfe2f3)](https://github.com/omykhalska/github-readme-stats)
 
